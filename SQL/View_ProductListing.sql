@@ -1,4 +1,4 @@
-USE [AdventureWorksLT2008]
+USE [AdventureWorksLT2012]
 GO
 
 /****** Object:  View [SalesLT].[vGetAllCategories]    Script Date: 6/26/2015 8:11:43 AM ******/

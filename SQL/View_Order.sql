@@ -1,4 +1,4 @@
-USE [AdventureWorksLT2008]
+USE [AdventureWorksLT2012]
 GO
 
 /****** Object:  View [SalesLT].[vProductListing]    Script Date: 6/26/2015 2:10:20 PM ******/
@@ -53,4 +53,4 @@ LEFT JOIN SalesLT.SalesOrderHeader SOH on SOH.SalesOrderID = SOD.SalesOrderID
 
 GO
 
-
+select * from [SalesLT].[vOrder]
