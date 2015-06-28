@@ -1,5 +1,4 @@
-USE [AdventureWorksLT2012]
-GO
+
 
 /****** Object:  View [SalesLT].[vGetAllCategories]    Script Date: 6/26/2015 8:11:43 AM ******/
 SET ANSI_NULLS ON
@@ -9,8 +8,7 @@ SET QUOTED_IDENTIFIER ON
 GO
 
 
-CREATE VIEW [SalesLT].[vProductListing]
-WITH SCHEMABINDING 
+ALTER VIEW [SalesLT].[vProductListing]
 AS 
 
 SELECT 
@@ -31,12 +29,13 @@ P.[ProductID]
 	  ,PM.Name AS ModelName
 	  ,PC.Name AS CategoryName
 	  ,PC.ParentProductCategoryID
+	  ,PAD.Description
 
 FROM SalesLT.Product P
 Left JOIN SalesLT.ProductCategory PC ON P.ProductCategoryID = PC.ProductCategoryID
 Left JOIN SalesLT.ProductModel PM ON P.ProductModelID = PM.ProductModelID
-
-
+LEft JOIN [SalesLT].[vProductAndDescription] PAD ON PAD.ProductID = P.ProductID
+WHERE PAD.Culture = 'en'
 GO
 
 

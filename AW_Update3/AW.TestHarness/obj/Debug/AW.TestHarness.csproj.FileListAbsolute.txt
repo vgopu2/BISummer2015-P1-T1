@@ -1,0 +1,11 @@
+C:\Users\Suman\Desktop\bellProjects\AW\AW.TestHarness\bin\AW.TestHarness.dll
+C:\Users\Suman\Desktop\bellProjects\AW\AW.TestHarness\bin\AW.TestHarness.pdb
+C:\Users\Suman\Desktop\bellProjects\AW\AW.TestHarness\bin\AW.Framework.dll
+C:\Users\Suman\Desktop\bellProjects\AW\AW.TestHarness\bin\AW.Model.dll
+C:\Users\Suman\Desktop\bellProjects\AW\AW.TestHarness\bin\AW.DataAccessLayer.dll
+C:\Users\Suman\Desktop\bellProjects\AW\AW.TestHarness\bin\AW.Framework.pdb
+C:\Users\Suman\Desktop\bellProjects\AW\AW.TestHarness\bin\AW.Model.pdb
+C:\Users\Suman\Desktop\bellProjects\AW\AW.TestHarness\bin\AW.DataAccessLayer.pdb
+C:\Users\Suman\Desktop\bellProjects\AW\AW.TestHarness\obj\Debug\AW.TestHarness.csprojResolveAssemblyReference.cache
+C:\Users\Suman\Desktop\bellProjects\AW\AW.TestHarness\obj\Debug\AW.TestHarness.dll
+C:\Users\Suman\Desktop\bellProjects\AW\AW.TestHarness\obj\Debug\AW.TestHarness.pdb
