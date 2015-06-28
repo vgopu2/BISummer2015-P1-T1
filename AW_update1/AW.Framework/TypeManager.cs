@@ -6,6 +6,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace AW.Framework
 {
     public class TypeManager<T>
@@ -26,6 +27,37 @@ namespace AW.Framework
         {
             return (T)Activator.CreateInstance(_entityType);
         }
+        protected bool IsNumericType(Type type)
+        {
+            if (type == null)
+            {
+                return false;
+            }
+
+            switch (Type.GetTypeCode(type))
+            {
+                case TypeCode.Byte:
+                case TypeCode.Decimal:
+                case TypeCode.Double:
+                case TypeCode.Int16:
+                case TypeCode.Int32:
+                case TypeCode.Int64:
+                case TypeCode.SByte:
+                case TypeCode.Single:
+                case TypeCode.UInt16:
+                case TypeCode.UInt32:
+                case TypeCode.UInt64:
+                    return true;
+                case TypeCode.Object:
+                    if (type.IsGenericType && type.GetGenericTypeDefinition() == typeof(Nullable<>))
+                    {
+                        return IsNumericType(Nullable.GetUnderlyingType(type));
+                    }
+                    return false;
+            }
+            return false;
+        }
+
 
         protected List<T> BindEntity(DataTable dt)
         {
@@ -44,7 +76,7 @@ namespace AW.Framework
                     //class have this static property name stored in _pair.Key 
                     if (dr[dc] != null && dr[dc] != System.DBNull.Value)
                     {
-                        _entityType.GetProperty(propertyName).SetValue(entity, dr[dc], null);
+                        _entityType.GetProperty(propertyName).SetValue(entity, dr[dc],null);
                     }
                 }
                 entities.Add(entity);

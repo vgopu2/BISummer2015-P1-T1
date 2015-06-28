@@ -15,7 +15,7 @@ namespace AW.DataAccessLayer
        
            private static string ConnectionString
            {
-               get { return ConfigurationManager.ConnectionStrings["AdventureWorksLT2008ConnectionString"].ConnectionString; }
+               get { return ConfigurationManager.ConnectionStrings["AdventureWorksLT2012ConnectionString"].ConnectionString; }
            }
            public static int ExecuteNonQuerySP(string spName, Hashtable spParams)
            {

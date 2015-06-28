@@ -9,3 +9,16 @@ C:\Users\Suman\Desktop\bellProjects\AW\AW.TestHarness\bin\AW.DataAccessLayer.pdb
 C:\Users\Suman\Desktop\bellProjects\AW\AW.TestHarness\obj\Debug\AW.TestHarness.csprojResolveAssemblyReference.cache
 C:\Users\Suman\Desktop\bellProjects\AW\AW.TestHarness\obj\Debug\AW.TestHarness.dll
 C:\Users\Suman\Desktop\bellProjects\AW\AW.TestHarness\obj\Debug\AW.TestHarness.pdb
+C:\Sandbox\BISummer2015-P1-T1\AW_update1\AW.TestHarness\bin\AW.TestHarness.dll
+C:\Sandbox\BISummer2015-P1-T1\AW_update1\AW.TestHarness\bin\AW.TestHarness.pdb
+C:\Sandbox\BISummer2015-P1-T1\AW_update1\AW.TestHarness\bin\AW.Framework.dll
+C:\Sandbox\BISummer2015-P1-T1\AW_update1\AW.TestHarness\bin\AW.Model.dll
+C:\Sandbox\BISummer2015-P1-T1\AW_update1\AW.TestHarness\bin\AW.DataAccessLayer.dll
+C:\Sandbox\BISummer2015-P1-T1\AW_update1\AW.TestHarness\bin\AW.Framework.pdb
+C:\Sandbox\BISummer2015-P1-T1\AW_update1\AW.TestHarness\bin\AW.Model.pdb
+C:\Sandbox\BISummer2015-P1-T1\AW_update1\AW.TestHarness\bin\AW.DataAccessLayer.pdb
+C:\Sandbox\BISummer2015-P1-T1\AW_update1\AW.TestHarness\obj\Debug\AW.TestHarness.csprojResolveAssemblyReference.cache
+C:\Sandbox\BISummer2015-P1-T1\AW_update1\AW.TestHarness\obj\Debug\AW.TestHarness.dll
+C:\Sandbox\BISummer2015-P1-T1\AW_update1\AW.TestHarness\obj\Debug\AW.TestHarness.pdb
+C:\Sandbox\BISummer2015-P1-T1\AW_update1\AW.TestHarness\bin\AW.Portal.dll
+C:\Sandbox\BISummer2015-P1-T1\AW_update1\AW.TestHarness\bin\AW.Portal.pdb

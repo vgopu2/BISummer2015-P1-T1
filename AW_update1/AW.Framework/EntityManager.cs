@@ -36,11 +36,12 @@ namespace AW.Framework
             }
             else if (_typeName == "ProductDescription")
             {
-                selQry = "SELECT Description  FROM [SalesLT].[ProductDescription]";
+                selQry = "SELECT *  FROM [SalesLT].[ProductDescription]";
             }
-            else if (_typeName == "ProductDescription")
+            else if (_typeName == "Order")
             {
-                selQry = "SELECT Description  FROM [SalesLT].[ProductDescription]";
+                selQry = "select Name,ProductNumber,Color,ListPrice,CategoryName,ModelName,Description FROM [SalesLT].[vOrder] cross join [SalesLT].[ProductDescription]";
+               
             }
 
             return selQry;

@@ -87,6 +87,10 @@
       <Project>{23b14986-6589-46a3-acb3-dc2ff2921af4}</Project>
       <Name>AW.Model</Name>
     </ProjectReference>
+    <ProjectReference Include="..\AW.Portal\AW.Portal.csproj">
+      <Project>{f460a156-03eb-42cc-a306-3b6c21b785f4}</Project>
+      <Name>AW.Portal</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

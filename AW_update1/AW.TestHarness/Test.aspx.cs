@@ -5,8 +5,8 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using AW.Framework;
+using AW.Model;
 using AW.model;
-
 
 namespace AW.TestHarness
 {
@@ -14,10 +14,9 @@ namespace AW.TestHarness
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            EntityManager<ProductDescription> mgrProduct = new EntityManager<ProductDescription>();
-            List<ProductDescription> list1 = mgrProduct.GetAll();
-           
-            GridView1.DataSource = list1;
+            EntityManager<Order> mgrproductorder = new EntityManager<Order>();
+            List<Order> productorder = mgrproductorder.GetAll();
+            GridView1.DataSource = productorder;
             GridView1.DataBind();
         }
     }
