@@ -1,0 +1,27 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using AW.Framework;
+using AW.model;
+using AW.Model;
+
+
+namespace AW.Portal.UserControls
+{
+    public partial class UCAddressView : System.Web.UI.UserControl
+    {
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            EntityManager<Address> mgrProduct = new EntityManager<Address>();
+            Address obj = new Address();
+            obj.AddressID = 9;
+            List<Address> list2 = mgrProduct.Search(obj);
+            GridView2.DataSource = list2[0].AddressLine1;
+            GridView2.DataBind();
+          
+        }
+    }
+}

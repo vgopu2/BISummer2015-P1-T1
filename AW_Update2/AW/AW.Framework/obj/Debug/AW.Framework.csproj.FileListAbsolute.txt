@@ -1,0 +1,9 @@
+C:\Users\Suman\Desktop\bellProjects\AW\AW.Framework\bin\Debug\AW.Framework.dll
+C:\Users\Suman\Desktop\bellProjects\AW\AW.Framework\bin\Debug\AW.Framework.pdb
+C:\Users\Suman\Desktop\bellProjects\AW\AW.Framework\bin\Debug\AW.DataAccessLayer.dll
+C:\Users\Suman\Desktop\bellProjects\AW\AW.Framework\bin\Debug\AW.DataAccessLayer.pdb
+C:\Users\Suman\Desktop\bellProjects\AW\AW.Framework\obj\Debug\AW.Framework.csprojResolveAssemblyReference.cache
+C:\Users\Suman\Desktop\bellProjects\AW\AW.Framework\obj\Debug\AW.Framework.dll
+C:\Users\Suman\Desktop\bellProjects\AW\AW.Framework\obj\Debug\AW.Framework.pdb
+C:\Users\Suman\Desktop\bellProjects\AW\AW.Framework\bin\Debug\AW.Model.dll
+C:\Users\Suman\Desktop\bellProjects\AW\AW.Framework\bin\Debug\AW.Model.pdb
