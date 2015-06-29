@@ -1,9 +1,0 @@
-C:\Users\Suman\Desktop\bellProjects\AW\AW.Model\bin\Debug\AW.Model.dll
-C:\Users\Suman\Desktop\bellProjects\AW\AW.Model\bin\Debug\AW.Model.pdb
-C:\Users\Suman\Desktop\bellProjects\AW\AW.Model\obj\Debug\AW.Model.dll
-C:\Users\Suman\Desktop\bellProjects\AW\AW.Model\obj\Debug\AW.Model.pdb
-C:\Sandbox\BISummer2015-P1-T1\AW_update1\AW.Model\bin\Debug\AW.Model.dll
-C:\Sandbox\BISummer2015-P1-T1\AW_update1\AW.Model\bin\Debug\AW.Model.pdb
-C:\Sandbox\BISummer2015-P1-T1\AW_update1\AW.Model\obj\Debug\AW.Model.csprojResolveAssemblyReference.cache
-C:\Sandbox\BISummer2015-P1-T1\AW_update1\AW.Model\obj\Debug\AW.Model.dll
-C:\Sandbox\BISummer2015-P1-T1\AW_update1\AW.Model\obj\Debug\AW.Model.pdb
