@@ -1,0 +1,5 @@
+C:\Users\Suman\Desktop\bellProjects\AW\AW.Portal\bin\AW.Portal.dll
+C:\Users\Suman\Desktop\bellProjects\AW\AW.Portal\bin\AW.Portal.pdb
+C:\Users\Suman\Desktop\bellProjects\AW\AW.Portal\obj\Debug\AW.Portal.csprojResolveAssemblyReference.cache
+C:\Users\Suman\Desktop\bellProjects\AW\AW.Portal\obj\Debug\AW.Portal.dll
+C:\Users\Suman\Desktop\bellProjects\AW\AW.Portal\obj\Debug\AW.Portal.pdb
