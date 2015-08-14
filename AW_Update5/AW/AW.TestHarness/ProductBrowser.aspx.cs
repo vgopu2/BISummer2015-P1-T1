@@ -27,11 +27,11 @@ namespace AW.TestHarness
         {
             string str = "SELECT [Name], [ProductID], [ProductNumber], [Color], [StandardCost] FROM [SalesLT].[vProductListing]";
 
-            string connString = ConfigurationManager.ConnectionStrings["AdventureWorksLT2008ConnectionString2"].ConnectionString;
+            string connString = ConfigurationManager.ConnectionStrings["AdventureWorksLT2012ConnectionString"].ConnectionString;
             SqlConnection conn = new SqlConnection(connString);
-            SqlDataAdapter adapter = new SqlDataAdapter(str, conn);
+            SqlDataAdapter adap = new SqlDataAdapter(str, conn);
             DataSet ds = new DataSet();
-            adapter.Fill(ds, "VehiclesTable");
+            adap.Fill(ds, "VehiclesTable");
             DataTable dt = new DataTable();
            
            // Int32 First = Convert.ToInt32(ds.Tables[0].Rows[0]["ProductID"].ToString());

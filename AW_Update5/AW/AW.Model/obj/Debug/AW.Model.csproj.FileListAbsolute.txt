@@ -3,3 +3,8 @@ C:\Users\Suman\Desktop\bellProjects\AW\AW.Model\bin\Debug\AW.Model.pdb
 C:\Users\Suman\Desktop\bellProjects\AW\AW.Model\obj\Debug\AW.Model.dll
 C:\Users\Suman\Desktop\bellProjects\AW\AW.Model\obj\Debug\AW.Model.pdb
 C:\Users\Suman\Desktop\bellProjects\AW\AW.Model\obj\Debug\AW.Model.csprojResolveAssemblyReference.cache
+C:\Users\muralikrishna\Desktop\classwork\BISummer2015-P1-T1\AW_Update5\AW\AW.Model\bin\Debug\AW.Model.dll
+C:\Users\muralikrishna\Desktop\classwork\BISummer2015-P1-T1\AW_Update5\AW\AW.Model\bin\Debug\AW.Model.pdb
+C:\Users\muralikrishna\Desktop\classwork\BISummer2015-P1-T1\AW_Update5\AW\AW.Model\obj\Debug\AW.Model.csprojResolveAssemblyReference.cache
+C:\Users\muralikrishna\Desktop\classwork\BISummer2015-P1-T1\AW_Update5\AW\AW.Model\obj\Debug\AW.Model.dll
+C:\Users\muralikrishna\Desktop\classwork\BISummer2015-P1-T1\AW_Update5\AW\AW.Model\obj\Debug\AW.Model.pdb

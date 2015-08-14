@@ -4,22 +4,54 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title></title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 729px;
+            position: relative;
+            height: 100px;
+        }
+        .auto-style2 {
+            width: 878px;
+            height: 100px;
+        }
+        .auto-style3 {
+            width: 878px;
+        }
+    </style>
+
+    <%--<title></title>
      <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script src="http://ajax.aspnetcdn.com/ajax/jquery.ui/1.8.9/jquery-ui.js" type="text/javascript"></script>
 <link href="http://ajax.aspnetcdn.com/ajax/jquery.ui/1.8.9/themes/start/jquery-ui.css"
-    rel="stylesheet" type="text/css" />
- 
-    <asp:ContentPlaceHolder ID="head" runat="server">
-    </asp:ContentPlaceHolder>
+    rel="stylesheet" type="text/css" />--%>
+
+
+    <body>
+        <form id="form1" runat="server">
+            <table class="style1">
+                <tr>
+                    <td  class="auto-style3" style="background-color: #00FFFF">This is header area
+                    </td>
+                </tr>
+                <tr>
+                    <td  class="auto-style2" style="font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 12px;">This is header2 area
+                    </td>
+                </tr>
+                <tr>
+                    <td  class="auto-style1" style="background-color: #FFFF66; clip: rect(auto, auto, auto, 100px); display: table-cell; top: 127px; left: 2px;">Navigation
+                    </td>
+                    <td class="style7">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </td>
+                    <td  class="auto-style1" style="background-color: #FFFF66; clip: rect(auto, auto, auto, 100px); display: table-cell;">shopping cart control
+                    </td>
+                </tr>
+
+            </table>
 </head>
-<body>
-    <form id="form1" runat="server">
-    <div>
-        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
-        
-        </asp:ContentPlaceHolder>
-    </div>
-    </form>
+<div>
+</div>
+</form>
 </body>
 </html>

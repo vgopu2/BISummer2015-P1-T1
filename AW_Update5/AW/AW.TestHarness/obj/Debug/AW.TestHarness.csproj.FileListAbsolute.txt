@@ -11,3 +11,16 @@ C:\Users\Suman\Desktop\bellProjects\AW\AW.TestHarness\bin\AW.Portal.pdb
 C:\Users\Suman\Desktop\bellProjects\AW\AW.TestHarness\bin\AW.Model.pdb
 C:\Users\Suman\Desktop\bellProjects\AW\AW.TestHarness\obj\Debug\AW.TestHarness.dll
 C:\Users\Suman\Desktop\bellProjects\AW\AW.TestHarness\obj\Debug\AW.TestHarness.pdb
+C:\Users\muralikrishna\Desktop\classwork\BISummer2015-P1-T1\AW_Update5\AW\AW.TestHarness\bin\AW.TestHarness.dll
+C:\Users\muralikrishna\Desktop\classwork\BISummer2015-P1-T1\AW_Update5\AW\AW.TestHarness\bin\AW.TestHarness.pdb
+C:\Users\muralikrishna\Desktop\classwork\BISummer2015-P1-T1\AW_Update5\AW\AW.TestHarness\bin\AW.DataAccessLayer.dll
+C:\Users\muralikrishna\Desktop\classwork\BISummer2015-P1-T1\AW_Update5\AW\AW.TestHarness\bin\AW.Framework.dll
+C:\Users\muralikrishna\Desktop\classwork\BISummer2015-P1-T1\AW_Update5\AW\AW.TestHarness\bin\AW.Model.dll
+C:\Users\muralikrishna\Desktop\classwork\BISummer2015-P1-T1\AW_Update5\AW\AW.TestHarness\bin\AW.Portal.dll
+C:\Users\muralikrishna\Desktop\classwork\BISummer2015-P1-T1\AW_Update5\AW\AW.TestHarness\bin\AW.DataAccessLayer.pdb
+C:\Users\muralikrishna\Desktop\classwork\BISummer2015-P1-T1\AW_Update5\AW\AW.TestHarness\bin\AW.Framework.pdb
+C:\Users\muralikrishna\Desktop\classwork\BISummer2015-P1-T1\AW_Update5\AW\AW.TestHarness\bin\AW.Portal.pdb
+C:\Users\muralikrishna\Desktop\classwork\BISummer2015-P1-T1\AW_Update5\AW\AW.TestHarness\bin\AW.Model.pdb
+C:\Users\muralikrishna\Desktop\classwork\BISummer2015-P1-T1\AW_Update5\AW\AW.TestHarness\obj\Debug\AW.TestHarness.csprojResolveAssemblyReference.cache
+C:\Users\muralikrishna\Desktop\classwork\BISummer2015-P1-T1\AW_Update5\AW\AW.TestHarness\obj\Debug\AW.TestHarness.dll
+C:\Users\muralikrishna\Desktop\classwork\BISummer2015-P1-T1\AW_Update5\AW\AW.TestHarness\obj\Debug\AW.TestHarness.pdb

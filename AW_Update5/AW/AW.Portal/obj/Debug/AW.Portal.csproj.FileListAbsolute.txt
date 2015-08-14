@@ -2,3 +2,8 @@ C:\Users\Suman\Desktop\bellProjects\AW\AW.Portal\bin\AW.Portal.dll
 C:\Users\Suman\Desktop\bellProjects\AW\AW.Portal\bin\AW.Portal.pdb
 C:\Users\Suman\Desktop\bellProjects\AW\AW.Portal\obj\Debug\AW.Portal.dll
 C:\Users\Suman\Desktop\bellProjects\AW\AW.Portal\obj\Debug\AW.Portal.pdb
+C:\Users\muralikrishna\Desktop\classwork\BISummer2015-P1-T1\AW_Update5\AW\AW.Portal\bin\AW.Portal.dll
+C:\Users\muralikrishna\Desktop\classwork\BISummer2015-P1-T1\AW_Update5\AW\AW.Portal\bin\AW.Portal.pdb
+C:\Users\muralikrishna\Desktop\classwork\BISummer2015-P1-T1\AW_Update5\AW\AW.Portal\obj\Debug\AW.Portal.csprojResolveAssemblyReference.cache
+C:\Users\muralikrishna\Desktop\classwork\BISummer2015-P1-T1\AW_Update5\AW\AW.Portal\obj\Debug\AW.Portal.dll
+C:\Users\muralikrishna\Desktop\classwork\BISummer2015-P1-T1\AW_Update5\AW\AW.Portal\obj\Debug\AW.Portal.pdb
